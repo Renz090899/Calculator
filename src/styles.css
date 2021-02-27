@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+input {
+  background-color: aqua;
+}
+button {
+  border: 200px;
+}
+p {
+  color: red;
+}
+h1 {
+  color: green;
+  font-weight: 200px;
+}
